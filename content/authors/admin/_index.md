@@ -31,7 +31,7 @@ education:
   courses:
     - course: BSc in Educational Technology
       institution: Nanjing Normal University
-      year: 4
+      year: ""
 email: xiaoyan_chu@outlook.com
 superuser: true
 highlight_name: true
