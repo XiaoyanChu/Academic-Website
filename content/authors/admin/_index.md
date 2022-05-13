@@ -1,7 +1,7 @@
 ---
 title: Xiaoyan Chu
 role: Master Candidate of Education
-avatar_filename: 271237828_940822006846493_4762651119695072081_n.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Educational Technology, AI in Education,
   International Education.
 interests:
