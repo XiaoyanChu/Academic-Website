@@ -36,8 +36,8 @@ email: xiaoyan_chu@outlook.com
 superuser: true
 highlight_name: true
 ---
+Xiaoyan Chu is a Master of Education student at Zhejiang University. Her research interests include educational technology, artificial intelligence in education, and international education.
+
 楚肖燕是浙江大学教育学硕士研究生。她的研究兴趣包括教育技术、教育中的人工智能、国际教育。
-
-
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
