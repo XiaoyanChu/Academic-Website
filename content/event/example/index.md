@@ -32,7 +32,7 @@ projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
-  filename: null
+  filename: assets/media/2022 iLRN.jpg
 url_code: ""
 ---
 {{% callout note %}}
