@@ -12,18 +12,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://orcid.org/ 0000-0001-9974-4066
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/XiaoyanChu
+  - icon: researchgate
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.researchgate.net/profile/Xiaoyan-Chu-2
 organizations:
   - name: Zhejiang university
     url: https://www.zju.edu.cn/
