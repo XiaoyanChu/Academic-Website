@@ -33,6 +33,10 @@ abstract: Metacognition is regarded as a retrospective skill promoting learnersâ
   recall in distance learning contexts.
 draft: false
 featured: false
+tags:
+  - SR
+  - Expriment Study
+projects: []
 image:
   filename: featured
   focal_point: ""
