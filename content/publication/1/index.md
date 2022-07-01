@@ -3,14 +3,9 @@ title: A Review of Artificial Intelligence (AI) in Education from 2010 to 2020
 publication_types:
   - "2"
 authors:
-  - Xiaoyanchu
-  - XuesongZhai
-  - Ching Sing Chai
-  - Morris Siu Yung Jong; Andreja Istenic; Michael Spector; Jia-Bao Liu; Jing
-    Yuan; Yan Li; Ning Cai
-author_notes:
-  - "2"
-  - "1"
+  - Xuesong Zhai; Xiaoyan chu; Ching Sing Chai; Morris Siu Yung Jong; Andreja
+    Istenic; Michael Spector; Jia-Bao Liu; Jing Yuan; Yan Li; Ning Cai
+author_notes: []
 doi: 10.1155/2021/8812542
 publication: Complexity
 abstract: This study provided a content analysis of studies aiming to disclose
