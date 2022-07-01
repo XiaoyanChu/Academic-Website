@@ -32,7 +32,7 @@ projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
-  filename: lqlpjxzy1agz8lrnbj7nb_wwt4zrtwegsomckpn4wmdwaa_2037_1182.png_720x720q90g.jpg
+  filename: ""
 url_code: ""
 ---
 {{% callout note %}}
