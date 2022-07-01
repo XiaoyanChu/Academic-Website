@@ -1,7 +1,7 @@
 ---
 abstract: Exploring the Effect of Virtual Reality with Haptics on Educational
   Research A Meta-analysis From 2010 to 2020
-slides: example
+slides: iLRN
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: 8th iLRN International Conference
@@ -28,11 +28,11 @@ links:
     url: https://immersivelrn.org/ilrn2022/
 publishDate: 2022-07-01T12:51:10.287Z
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
+  filename: lqlpjxzy1agz8lrnbj7nb_wwt4zrtwegsomckpn4wmdwaa_2037_1182.png_720x720q90g.jpg
 url_code: ""
 ---
 
