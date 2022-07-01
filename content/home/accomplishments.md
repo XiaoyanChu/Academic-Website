@@ -28,7 +28,7 @@ item:
     url: ""
 widget_id: Accomplishments
 headless: true
-weight: 70
+weight: 100
 title: Accomplish&shy;ments
 subtitle: null
 design:
