@@ -17,8 +17,6 @@ abstract: The current years have witnessed that educational innovation has been
   could both have access to collective wisdom and meet individuals' specific
   needs, among which the innovative ecosystem could be constructed with
   achievement.
-slides: ""
-url_pdf: ""
 publication_types:
   - "1"
 authors:
