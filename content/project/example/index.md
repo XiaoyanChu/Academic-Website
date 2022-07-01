@@ -18,6 +18,6 @@ links:
 image:
   caption: ""
   focal_point: ""
-  filename: physics_lab.png
+  filename: ""
 url_code: ""
 ---
