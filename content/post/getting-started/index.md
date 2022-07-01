@@ -16,7 +16,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-  filename: 求是大讲堂.jpg
+  filename: ""
 ---
 ## This is Xiaoyan CHU.
 
