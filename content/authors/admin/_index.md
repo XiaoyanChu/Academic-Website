@@ -29,6 +29,9 @@ education:
     - course: BSc in Educational Technology
       institution: Nanjing Normal University
       year: ""
+    - institution: The University of Edinburgh
+      year: 2018
+      course: Moray House School of Education and Sport
 email: xiaoyan_chu@outlook.com
 superuser: true
 highlight_name: true
