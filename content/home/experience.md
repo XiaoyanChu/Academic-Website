@@ -2,27 +2,27 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: College of Education, Zhejiang University
     company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
-    date_end: ""
+    company_logo: zju
+    location: Hangzhou, China
+    date_start: 2021-03-01
+    date_end: 2021-05-01
     description: |-2
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Translating Multimedia Learning into Chinese
+        * Applying for a Nantional Natural Science Foundation of China(NSFC) Project
+  - title: Intern Teacher of Information Technology
+    company: Yangzhou Senior High School
     company_url: ""
-    company_logo: org-x
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: yz_high_school
+    location: Yangzhou, China
+    date_start: 2020-08-31
+    date_end: 2020-12-11
+    description: Taught infromation technology lesson.
+
 widget_id: Experience
 headless: true
 weight: 30
