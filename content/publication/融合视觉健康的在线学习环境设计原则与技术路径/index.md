@@ -3,7 +3,9 @@ title: 融合视觉健康的在线学习环境设计原则与技术路径
 publication_types:
   - "2"
 authors:
-  - 翟雪松，楚肖燕，李艳
+  - 翟雪松
+  - 楚肖燕
+  - 李艳
 author_notes:
   - 浙江大学教育学院
 publication: 现代教育技术
