@@ -1,5 +1,5 @@
 ---
-title: Xiaoyan Chu
+title: Xiaoyan Chu test
 role: Master Candidate of Education
 avatar_filename: avatar.jpg
 bio: My research interests include Educational Technology, AI in Education,
