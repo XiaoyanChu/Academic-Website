@@ -22,11 +22,8 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - admin
-  - XuesongZhai
-author_notes:
-  - "2"
-  - "1"
+  - Xuesong Zhai;Xiaoyan Chu; Yan Li
+author_notes: []
 publication: In *2021 IEEE 24th International Conference on Computer Supported
   Cooperative Work in Design, CSCWD 2021*
 summary: ""
@@ -48,7 +45,7 @@ image:
   preview_only: false
 date: 2022-07-01T13:22:43.725Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
