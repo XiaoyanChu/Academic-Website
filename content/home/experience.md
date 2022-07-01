@@ -17,7 +17,7 @@ experience:
   - title: Intern Teacher of Information Technology
     company: Yangzhou Senior High School
     company_url: ""
-    company_logo: yz_high_school
+    company_logo: yz
     location: Yangzhou, China
     date_start: 2020-08-31
     date_end: 2020-12-11
